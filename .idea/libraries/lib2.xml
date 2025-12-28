@@ -1,0 +1,53 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/lucene-core-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/castor-core-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/commons-digester-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jackson-core-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/bctsp-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/bcmail-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jakarta-regexp-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jasperreports-6.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/lucene-queryparser-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jackson-annotations-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/icu4j-57.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-asm-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-aop-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/ojdbc14-10.2.0.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-beans-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-expression-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jasperreports-javaflow-6.16.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/mysql-connector-java-5.1.48.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/olap4j-0.9.7.309-JS-3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-context-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/stax-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/spring-core-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/lucene-sandbox-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/core-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jasperreports-fonts-6.17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/bcprov-jdk14-1.38.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jcommon-1.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/lucene-queries-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/fontawesomefx-8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/stax-api-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/lucene-analyzers-common-4.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/ecj-4.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/castor-xml-1.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/commons-beanutils-1.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/itext-2.1.7.js5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/bcprov-jdk14-138.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/stax-api-1.0-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cafeShopManagementSystem/dist/lib/commons-collections-3.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
