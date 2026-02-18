@@ -984,7 +984,7 @@ public class mainFormController implements Initializable {
             
             try {
                 
-                JasperDesign jDesign = JRXmlLoader.load("C:\\Users\\WINDOWS 10\\Documents\\NetBeansProjects\\cafeShopManagementSystem\\src\\cafeshopmanagementsystem\\report.jrxml");
+                JasperDesign jDesign = JRXmlLoader.load("C:\\Users\\USER\\Documents\\CafeShopManagementSystem-main\\cafeShopManagementSystem\\src\\cafeshopmanagementsystem\\report.jrxml");
                 JasperReport jReport = JasperCompileManager.compileReport(jDesign);
                 JasperPrint jPrint = JasperFillManager.fillReport(jReport, map, connect);
                 
