@@ -25,7 +25,7 @@ import javafx.scene.layout.AnchorPane;
 
 /**
  *
- * @author WINDOWS 10
+ * @author Wealthometer
  */
 public class cardProductController implements Initializable {
 
