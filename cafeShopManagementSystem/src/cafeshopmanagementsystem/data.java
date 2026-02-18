@@ -7,7 +7,8 @@ package cafeshopmanagementsystem;
 
 /**
  *
- * @author WINDOWS 10
+ * @author Wealthometer
+ *
  */
 public class data {
     
