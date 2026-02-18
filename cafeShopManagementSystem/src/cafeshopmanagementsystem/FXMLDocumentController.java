@@ -36,7 +36,7 @@ import javafx.util.Duration;
 
 /**
  *
- * @author WINDOWS 10
+ * @author Wealthometer
  */
 public class FXMLDocumentController implements Initializable {
     
